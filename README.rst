@@ -2,6 +2,7 @@ django-chunked-upload demo
 ==========================
 
 This is a Django demo project of the `django-chunked-upload <https://github.com/juliomalegria/django-chunked-upload>`__ module.
+This is an amazing project just add how to use this for absolute bigneers it will be helpful. 
 
 Live demo
 ---------
